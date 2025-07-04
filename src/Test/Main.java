@@ -10,10 +10,10 @@ public class Main {
 		int sum = c.sum(25, 34);
 		System.out.println(sum);
 		
-		int div = c.div(25, 2);
+		int div = c.div(20, 2);
 		System.out.println(div);
 		
-		int sub = c.sub(25, 8);
+		int sub = c.sub(20, 8);
 		System.out.println(sub);
 		
 		int multi=c.mult(28, 10);
