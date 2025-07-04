@@ -13,6 +13,9 @@ public class Main {
 		int div = c.div(10, 2);
 		System.out.println(div);
 		
+		int sub = c.sub(28, 8);
+		System.out.println(sub);
+		
 	}
 
 }

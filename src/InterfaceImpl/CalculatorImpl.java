@@ -16,4 +16,10 @@ public class CalculatorImpl implements Calculator {
 		return sum;
 	}
 
+	@Override
+	public int sub(int x, int y) {
+		int sub = x-y;
+		return sub;
+	}
+
 }
