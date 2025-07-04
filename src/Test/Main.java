@@ -10,6 +10,9 @@ public class Main {
 		int sum = c.sum(12, 34);
 		System.out.println(sum);
 		
+		int div = c.div(10, 2);
+		System.out.println(div);
+		
 	}
 
 }
