@@ -22,4 +22,10 @@ public class CalculatorImpl implements Calculator {
 		return sub;
 	}
 
+	@Override
+	public int mult(int a, int b) {
+		int mult=a*b;
+		return mult;
+	}
+
 }

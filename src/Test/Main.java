@@ -16,6 +16,9 @@ public class Main {
 		int sub = c.sub(28, 8);
 		System.out.println(sub);
 		
+		int multi=c.mult(20, 10);
+		System.out.println(multi);
+		
 	}
 
 }
